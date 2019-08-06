@@ -1,0 +1,15 @@
+{
+  "name": "countup",
+  "homepage": "https://github.com/inorganik/countUp.js",
+  "version": "2.0.3",
+  "_release": "2.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.0.3",
+    "commit": "c98992ba0465c90456073515acdbbe99003e1b67"
+  },
+  "_source": "https://github.com/inorganik/countUp.js.git",
+  "_target": "^2.0.3",
+  "_originalSource": "countup",
+  "_direct": true
+}
